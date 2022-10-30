@@ -9,8 +9,10 @@ Desafio de Frontend da Ally, com intuito de criar uma aplicação que popule um 
 * Reactstrap
 * Axios
 * Styled Components
+* React hook form
 * Vite
-
+* Etc.
+  
 # 2. Como executar o projeto
 * 1. Realize o <code>git clone</code> do repositório em um local de preferência da sua máquina
 * 2. Navegue pela pasta clonada através do <code><i>cd</i> react-axios-select-destination</code> e execute o comando <code>npm run</code> ou <code>npm run dev</code>
